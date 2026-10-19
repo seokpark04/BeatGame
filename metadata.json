@@ -1,0 +1,6 @@
+{
+  "name": "절대 박자 연구소 (Absolute Beat Lab)",
+  "description": "내면의 메트로놈 능력을 테스트하는 절대 박자 리듬 게임 및 정밀 리듬 분석 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
